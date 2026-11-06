@@ -1,0 +1,10 @@
+# Ignore Instagram card news images and viewers
+output/
+posts/**/output/
+*.png
+*.jpg
+*.jpeg
+generate_cards.py
+posts/**/generate_cards.py
+index.html
+posts/**/index.html
