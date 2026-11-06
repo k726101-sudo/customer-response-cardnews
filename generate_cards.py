@@ -403,3 +403,4 @@ if __name__ == "__main__":
     draw_slide_6()
     draw_slide_7()
     print("All 7 cards successfully generated!")
+
